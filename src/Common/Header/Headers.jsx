@@ -34,7 +34,7 @@ const Headers = ({ tags }) => {
                         <Container>
                             <Navbar.Brand>
                                 <Nav.Link href="/" className="navbar-brand">
-                                    <img src={logo1} style={{ width: '100%', height: '55px' }} className="img-fluid" title="lenexit" alt="lenexit.com logo" />
+                                    <img src={logo1} style={{ width: '100%', height: '55px',}} className="img-fluid" title="lenexit" alt="lenexit.com logo" />
                                 </Nav.Link>
                             </Navbar.Brand>
                             <Navbar.Toggle aria-controls="basic-navbar-nav" />
