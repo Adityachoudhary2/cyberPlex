@@ -18,6 +18,7 @@ header {
     font-weight: bold;
 }
 
+
 header .react_navbar ul li {
     transition: .5s ease-out;
     margin: 0 5px;
